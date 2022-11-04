@@ -10,4 +10,5 @@ Original file is located at
 #Use this code for the git-demo
 #write your name
 
-name = "rad"
+name = "Venky"
+print("Zettai wa boku da")
